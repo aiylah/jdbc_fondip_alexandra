@@ -50,6 +50,6 @@ public class Ticket {
     }
 
     public enum Status {
-        ORDERED, PAYED, PROCESSING, READY, FINISHED
+        ORDERED, PAID, PROCESSING, READY, FINISHED
     }
 }

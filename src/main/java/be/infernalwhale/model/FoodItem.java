@@ -36,4 +36,8 @@ public class FoodItem {
         this.price = price;
         return this;
     }
+
+    public int getTicketId() {
+        return ticket.getTicketID();
+    }
 }
